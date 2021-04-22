@@ -1,6 +1,6 @@
 ## LS-Life Issue Tracker
 Repozytorium stworzone do celów kontrolowania problemów zgłaszanych przez graczy serwera.<br/>
-Prosimy zapoznać się z poniższymi informacjami oraz zasadami działania systemu zgłaszania problemów oraz porpozycji.
+Prosimy zapoznać się z poniższymi informacjami oraz zasadami działania systemu zgłaszania problemów oraz propozycji.
 
 ## Problemy (Bug'i oraz Crash'e)
 Prosimy o zgłaszanie wszelkich problemów, które możesz napotkać podczas rozgrywki na serwerze.<br/> 
